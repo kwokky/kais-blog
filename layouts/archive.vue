@@ -1,5 +1,5 @@
 <template>
-    <div class="max-width mx-auto px3 ltr">
+    <div class="max-width mx-auto px3 ltr" style="height: 100%">
         <div class="content index py4">
             <ArchiveHeader/>
             <nuxt/>

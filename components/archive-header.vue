@@ -17,7 +17,7 @@
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link class="icon" :to="{name: 'archive-id', params: {id: 1}}">
+                        <nuxt-link class="icon" :to="{name: 'archive-id', params: {id: 2}}">
                             <i class="fas fa-chevron-right" @mouseover="$set(textCtl, 'next', true)"
                                @mouseout="$set(textCtl, 'next', false)"></i>
                         </nuxt-link>

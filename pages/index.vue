@@ -3,6 +3,7 @@
         <section id="about">
             <p>人生如逆旅，我亦是行人</p>
             <p>
+                Find me
                 <a class="icon" target="_blank" href="https://github.com/kwokky">
                     <i class="fab fa-github"></i>
                 </a>
